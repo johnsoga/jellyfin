@@ -20,7 +20,7 @@ $ sudo apt install docker-compose
 ```
 $ mkdir /apps/jellyfin
 $ cd /apps/jellyfin
-$ git clone https://github.com/johnsoga/heimdall .
+$ git clone https://github.com/johnsoga/jellyfin .
 ```
 
 ### Docker Configuration
